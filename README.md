@@ -8,7 +8,7 @@
 
 Windows 便携版：
 
-[点击下载 ai-video-rough-cut-assistant-windows-portable.zip](https://github.com/fengyatou597-cloud/AI-cut-video/releases/download/v0.1.0/ai-video-rough-cut-assistant-windows-portable.zip](https://github.com/fengyatou597-cloud/AI-cut-video/releases/download/v0.1.0/ai-video-rough-cut-assistant-windows-portable.zip)
+[点击下载 Windows 便携版](https://github.com/fengyatou597-cloud/AI-cut-video/releases/download/v0.1.0/ai-video-rough-cut-assistant-windows-portable.zip)
 
 下载后解压整个 zip，双击 `start_windows.bat`，浏览器会打开 `http://localhost:8765`。
 ## 核心功能
