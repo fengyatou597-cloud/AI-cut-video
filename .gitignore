@@ -1,0 +1,25 @@
+﻿# Python / backend runtime
+backend/.venv/
+backend/storage/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Frontend runtime dependencies
+frontend/node_modules/
+
+# Local environment and secrets
+.env
+**/.env
+**/.env.local
+!**/.env.example
+
+# Local logs, release bundles, generated files
+logs/
+release/
+*.log
+*.db
+*.sqlite
+*.sqlite3
+*.zip
