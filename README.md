@@ -4,6 +4,13 @@
 
 这个工具的定位是“粗剪助理”，不是一键自动成片工具。它不会自动点击剪映，也不会自动导出最终视频。
 
+## 下载使用
+
+Windows 便携版：
+
+[点击下载 ai-video-rough-cut-assistant-windows-portable.zip](https://github.com/fengyatou597-cloud/AI-cut-video/releases/download/v0.1.0/ai-video-rough-cut-assistant-windows-portable.zip](https://github.com/fengyatou597-cloud/AI-cut-video/releases/download/v0.1.0/ai-video-rough-cut-assistant-windows-portable.zip)
+
+下载后解压整个 zip，双击 `start_windows.bat`，浏览器会打开 `http://localhost:8765`。
 ## 核心功能
 
 - 创建视频项目，设置平台、目标时长、视频风格和剪辑节奏。
